@@ -30,6 +30,23 @@ To evaluate the functionality, usability, and data integrity of the Components c
 | BUG-FL-008 | Discount and Rating filters are completely inactive | Critical |
 | BUG-PC-005 | Quick View modal displays wrong product images/details | Critical |
 
-Full details for all 20 bugs are available in the [Bug Report](./bug-reports/Bug_Report_Component_Page.xlsx).
+Full details for all 20 bugs are available in the [Bug Report](./bug-report/Bug_Report_Component_Page_Lambda.xlsx).
+
+## 🤝 Team Collaboration
+Collaborated as part of a 5-member QA team using Jira for defect tracking and sprint planning during the DEPI graduation capstone project.
 
 ## 📁 Repository Contents
+├── test-cases/
+│   └── TCs_Report_Component_Page_L....xlsx
+├── bug-report/
+│   └── Bug_Report_Component_Page_Lambda.xlsx
+└── README.md
+## 🔑 Key Skills Demonstrated
+- Manual test case design & execution
+- Black-box testing techniques (EP, BVA, Exploratory)
+- Bug reporting with severity/priority classification
+- Attention to detail in identifying data integrity and UX issues
+- Structured QA documentation
+
+---
+**Author:** Ahmed Saeed Hemdan | [LinkedIn](https://www.linkedin.com/in/ahmed-saeed-hemdan/)
