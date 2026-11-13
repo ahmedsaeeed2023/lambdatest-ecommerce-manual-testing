@@ -9,17 +9,16 @@ Manual functional testing project performed on the **Components** category page 
 To evaluate the functionality, usability, and data integrity of the Components category page — including navigation, filters, product listings, cart, wishlist, and compare features — and to identify defects through structured manual testing.
 
 ## 🛠️ Tools & Techniques
-- **Test Design Techniques:** Equivalence Partitioning, Boundary Value Analysis, Exploratory Testing
 - **Documentation:** Excel-based Test Case Reports & Bug Reports
 - **Environment:** Browser: Brave | OS: Windows 11
 
 ## 📊 Summary of Results
-- **55+ test cases** designed and executed across 6 functional areas:
+- **79+ test cases** designed and executed across 7 functional areas:
   - Header/Breadcrumb, Sub-Categories, Toolbar (Grid/List/Sort/Compare), Product Cards, Pagination, Filters, Left Sidebar
-- **20 bugs** identified and reported, including:
-  - **4 Critical** severity bugs (data integrity issues)
-  - **11 High** severity bugs
-  - **5 Medium** severity bugs
+- **23 bugs** identified and reported, including:
+  - **9 Critical** severity bugs (data integrity issues)
+  - **13 High** severity bugs
+  - **1 Medium** severity bugs
 
 ## 🐞 Notable Bugs Found
 | Bug ID | Title | Severity |
